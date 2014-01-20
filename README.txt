@@ -39,3 +39,4 @@ EECE 281 GitHub Guidelines
 Name				email
 -----------------------------------------------------------------------------------------
 Eric Secules			esecules@gmail.com
+Jason Jang			jcj83429@gmail.com
