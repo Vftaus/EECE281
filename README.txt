@@ -41,3 +41,4 @@ Name				email
 Eric Secules			esecules@gmail.com
 Jason Jang			jcj83429@gmail.com
 Erik Dandanell                  edandanell@gmail.com
+Adam Vastopa			adamvastopa@gmail.com
