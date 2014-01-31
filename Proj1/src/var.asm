@@ -10,11 +10,16 @@ bcd: ds 5
 z: ds 4
 
 ;adc
-adc: ds 2
+adc1: ds 2
+adc2: ds 2
+
+;this stuff is private yo
+wtfbbq: ds 4
+bbqwtf: ds 4
 
 ;Temperature and time
 time: ds 2
-tempa: ds 2
+tempa: ds 3
 tempo: ds 2
 tempi: ds 1
 timer2_interrupt_count: ds 1
